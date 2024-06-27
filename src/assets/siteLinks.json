@@ -1,17 +1,32 @@
 [
   {
+    "icon": "ListAltRegular",
+    "name": "发卡网展示列表",
+    "link": "https://fkw.xs03.top/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://ahzys.cn/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Cat",
+    "name": "卡网",
+    "link": "https://kw.xs03.top/"
+  },
+  {
+    "icon": "Alipay",
+    "name": "码支付",
+    "link": "https://mzf.52nt.cn/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.xs03.top/"
+  },
+    {
+    "icon": "Info",
+    "name": "关于我",
+    "link": "https://About.xs03.top/"
   }
 ]
