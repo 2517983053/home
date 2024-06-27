@@ -70,6 +70,10 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Info,
+  ListAltRegular,
+  Cat,
+  Alipay,
 };
 
 // 链接跳转
