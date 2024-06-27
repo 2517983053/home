@@ -11,12 +11,12 @@
   },
   {
     "icon": "Cat",
-    "name": "卡网",
+    "name": "Minecraft卡网",
     "link": "https://kw.xs03.top/"
   },
   {
     "icon": "Alipay",
-    "name": "码支付",
+    "name": "码支付对接",
     "link": "https://mzf.52nt.cn/"
   },
   {
@@ -26,7 +26,7 @@
   },
     {
     "icon": "Info",
-    "name": "关于我",
+    "name": "关于我们",
     "link": "https://About.xs03.top/"
   }
 ]
